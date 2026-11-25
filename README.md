@@ -78,12 +78,7 @@ The dashboard helps users explore average scores in Mathematics, Reading, and Wr
 5. Use the slicers to select different categories.
 6. Observe how the displayed visuals change according to the selected filters.
 
-## 8.Screenshot
-
-<img width="1368" height="741" alt="Screenshot 2026-10-25 193342" src="https://github.com/user-attachments/assets/3dda8aa7-6112-469c-b9c4-892620cb8664" />
-
-
-## 9. Conclusion
+## 8. Conclusion
 
 The Student Performance Dashboard demonstrates how Microsoft Power BI can be used to present academic data in an interactive and visual format. By combining KPI cards, charts, and slicers, the dashboard makes student performance easier to explore and compare. It supports data-driven understanding of academic results and provides a convenient way to analyze student performance across different categories.
 
